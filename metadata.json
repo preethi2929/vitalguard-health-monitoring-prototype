@@ -1,0 +1,9 @@
+{
+  "name": "VitalGuard",
+  "description": "Real-time health monitoring with fall detection, vital signs tracking, and privacy-focused distress voice sensing.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "serial"
+  ]
+}
